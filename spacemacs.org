@@ -1,0 +1,19 @@
+* General
+** C-o
+Move back
+** C-z
+Helm actions
+* Space
+** ?
+keybindings
+** a
+*** u
+Undo tree
+** b
+*** m
+move buffer
+*** R
+revert buffer
+** c
+*** l L 
+Comment line/invert
